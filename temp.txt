@@ -1,0 +1,11 @@
+About Oracle 12C
+Introducing Oracle Database 12c—the world's first database designed for the cloud.
+
+What Customers Are Saying
+What Customers Are Saying
+Watch the video
+Over successive releases of Oracle Database, Oracle continues to ease our customers' efforts to standardize, consolidate, and automate database services on the cloud. What started more than a decade ago with pioneering features like Oracle Real Application Clusters and Oracle Automatic Storage Management now continues with Oracle Multitenant, which enables IT to tap fully into the benefits of the cloud, including resource sharing, management flexibility, and cost savings.
+
+Read the press release: Oracle Database 12c Now Available
+Register for the official launch Webcast
+Download Oracle Database 12c
