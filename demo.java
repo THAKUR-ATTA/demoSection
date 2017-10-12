@@ -18,7 +18,7 @@ class PalindromeExample{
 }  
 // Factorial Program using loop in java
 
-Let's see the factorial Program using loop in java.
+//Let's see the factorial Program using loop in java.
 
 class FactorialExample{  
  public static void main(String args[]){  
