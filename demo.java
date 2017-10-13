@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
  
+class A{}
 class AddingLargeNumbers {
   public static void main(String[] args) {
     String number1, number2;
