@@ -1,5 +1,5 @@
+//coed\
 Features of Java
-
 There is given many features of java. They are also known as java buzzwords. The Java Features given below are simple and easy to understand.
 
 Java Features
