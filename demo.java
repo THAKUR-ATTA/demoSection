@@ -1,3 +1,60 @@
+Features of Java
+
+There is given many features of java. They are also known as java buzzwords. The Java Features given below are simple and easy to understand.
+
+Java Features
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Dynamic
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Simple
+
+According to Sun, Java language is simple because:
+      syntax is based on C++ (so easier for programmers to learn it after C++).
+      removed many confusing and/or rarely-used features e.g., explicit pointers, operator overloading etc.
+      No need to remove unreferenced objects because there is Automatic Garbage Collection in java.
+Object-oriented
+
+Object-oriented means we organize our software as a combination of different types of objects that incorporates both data and behaviour.
+Object-oriented programming(OOPs) is a methodology that simplify software development and maintenance by providing some rules.
+Basic concepts of OOPs are:
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+ 
+Platform Independent
+
+java is platform independent
+A platform is the hardware or software environment in which a program runs.
+
+There are two types of platforms software-based and hardware-based. Java provides software-based platform.
+
+The Java platform differs from most other platforms in the sense that it is a software-based platform that runs on the top of other hardware-based platforms. It has two components:
+Runtime Environment
+API(Application Programming Interface)
+Java code can be run on multiple platforms e.g. Windows, Linux, Sun Solaris, Mac/OS etc. Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code because it can be run on multiple platforms i.e. Write Once and Run Anywhere(WORA).
+
+Secured
+
+Java is secured because:
+
+No explicit pointer
+Java Programs run inside virtual machine sandbox
+
+
+
 import java.awt.*; 
 import java.awt.event.*;
 import java.awt.geom.Line2D;
